@@ -1,0 +1,8 @@
+name: "Novin Ghaffari"
+navbar:
+  title: "Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Second"
+      href: second.html
